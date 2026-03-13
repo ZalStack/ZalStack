@@ -30,24 +30,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZalStack&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZalStack&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZalStack&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📈 GitHub Activity Graph
 
 <p align="center">
