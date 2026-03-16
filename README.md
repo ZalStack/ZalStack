@@ -44,7 +44,7 @@
 - 🌱 I’m currently learning advanced **Node.js patterns** and **microservices architecture**
 - 👯 I’m looking to collaborate on **open source projects** or **innovative web apps**
 - 🤔 I’m looking for help with **scaling backend systems** and **optimizing database performance**
-- 💬 Ask me about **fullstack development, JavaScript frameworks, or database design**
+- 💬 Ask me about **fullstack development, JavaScript or PHP frameworks, or database design**
 - 📫 How to reach me: **fakhrizalgarnindyo@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I enjoy exploring new **tech stacks** and building side projects just for fun!
