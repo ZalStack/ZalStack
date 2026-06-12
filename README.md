@@ -90,7 +90,6 @@ const fakhrizal = {
 
 ## 📈 Contribution Graph
 
-<<<<<<< HEAD
 - 🔭 I’m currently working on web applications with **Next.js and Laravel**
 - 🌱 I’m currently learning advanced **Node.js patterns** and **microservices architecture**
 - 👯 I’m looking to collaborate on **open source projects** or **innovative web apps**
@@ -100,12 +99,6 @@ const fakhrizal = {
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I enjoy exploring new **tech stacks** and building side projects just for fun!
 =======
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZalStack&theme=tokyo-night&hide_border=true&bg_color=1e1f22" />
-</div>
->>>>>>> 
-
----
 
 ## 🚀 What I'm Up To
 
