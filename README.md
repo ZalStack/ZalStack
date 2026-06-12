@@ -123,7 +123,7 @@ const fakhrizal = {
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZalStack&theme=tokyo-night&hide_border=true&bg_color=1e1f22" />
 </div>
->>>>>>> e9cad6d (initial commit)
+>>>>>>> 
 
 ---
 
