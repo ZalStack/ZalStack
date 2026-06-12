@@ -5,10 +5,6 @@
 
 <br/>
 
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=ZalStack&color=61afef&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/ZalStack?style=flat-square&color=61afef)](https://github.com/ZalStack)
-
 </div>
 
 ---
@@ -90,22 +86,6 @@ const fakhrizal = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZalStack&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1e1f22" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ZalStack&theme=tokyonight&hide_border=true&background=1e1f22" />
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZalStack&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1f22" />
-
-</div>
-
->>>>>>> e9cad6d (initial commit)
 ---
 
 ## 📈 Contribution Graph
