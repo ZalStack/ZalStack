@@ -40,7 +40,6 @@ const fakhrizal = {
 
 ---
 
-<<<<<<< HEAD
 =======
 ## 🛠️ Tech Stack
 
