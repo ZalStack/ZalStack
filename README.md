@@ -48,16 +48,14 @@ Fun Fact:    I build side projects just to try new tech stacks 🔥
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maszal-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=maszal-08&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZalStack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ZalStack&theme=tokyonight&hide_border=true" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maszal-08&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZalStack&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
-
-> 💡 Ganti `maszal-08` di atas dengan username GitHub kamu yang sebenarnya agar stats-nya muncul dengan benar.
 
 <br/>
 
